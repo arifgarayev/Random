@@ -1,2 +1,2 @@
-# task
-jupyter notebook for data visualization 
+# Random
+Data visualization and some random stuff
