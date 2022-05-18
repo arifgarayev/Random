@@ -1,0 +1,18 @@
+body {
+  padding-top: 54px;
+}
+table {
+	border: #A7C5FF ;
+}
+
+td {
+	padding:5px;
+}
+
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+

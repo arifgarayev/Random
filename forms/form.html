@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple HTML form </title>
+</head>
+<body>
+    <h1>This is simple Form handling</h1>
+
+    <form action="welcome.php" method="post" target="_blank">
+
+        <label for="full_name">Full Name: </label><br>
+        <input type="text" name="full_name" id="full_name" size="27"><br>
+
+        <label for="email">Email: </label><br>
+        <input type="email" name="email" id="email" size="24"><br>
+
+        <label for="pass">Desired Password: </label><br>
+        <input type="password" name="pass" id="pass" size="24"><br>
+
+        <label for="quantity_of_books">Number of books you order: </label><br>
+        <input type="number" name="quantity_of_books" id="quantity_of_books"><br><br>
+
+
+        <input type="submit" name="submit" value="Click ME to Submit">
+
+    </form>
+</body>
+</html>
