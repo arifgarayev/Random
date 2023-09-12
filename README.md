@@ -54,7 +54,7 @@ If you have any improvements or corrections to suggest for the assignments or th
 
 ## License
 
-This repository is licensed under the MIT License - see the [LICENSE](https://mit-license.org/) file for details.
+This repository is licensed under the MIT License - see the [MIT License](https://mit-license.org/) file for details.
 
 ---
 
