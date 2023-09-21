@@ -1,5 +1,8 @@
 # my-php ~ MAN307 PHP Home Assignment
 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/garayevarif/)
+
 This is a collection of home assignments for the MAN307 Business Programming course. In this course, you will learn about PHP programming and web development. These are completed assignments for MAN307 course. You will need to set up a development environment using XAMPP with Apache web server to proceed.
 
 ## Getting Started
